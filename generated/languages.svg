@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #DA5B0B;width: 64.790%;" class="progress-item"></span><span style="background-color: #e34c26;width: 32.002%;" class="progress-item"></span><span style="background-color: #336790;width: 3.085%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.075%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.033%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.013%;" class="progress-item"></span><span style="background-color: #867db1;width: 0.002%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.000%;" class="progress-item"></span>
+<span style="background-color: #DA5B0B;width: 66.773%;" class="progress-item"></span><span style="background-color: #e34c26;width: 30.200%;" class="progress-item"></span><span style="background-color: #336790;width: 2.912%;" class="progress-item"></span><span style="background-color: #3572A5;width: 0.070%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 0.031%;" class="progress-item"></span><span style="background-color: #563d7c;width: 0.013%;" class="progress-item"></span><span style="background-color: #867db1;width: 0.002%;" class="progress-item"></span><span style="background-color: #3B2F63;width: 0.000%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -144,7 +144,7 @@ div.ellipsis {
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Jupyter Notebook</span>
-<span class="percent">64.79%</span>
+<span class="percent">66.77%</span>
 </li>
 
 
@@ -153,7 +153,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">HTML</span>
-<span class="percent">32.00%</span>
+<span class="percent">30.20%</span>
 </li>
 
 
@@ -162,7 +162,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">PLpgSQL</span>
-<span class="percent">3.09%</span>
+<span class="percent">2.91%</span>
 </li>
 
 
